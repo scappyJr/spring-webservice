@@ -1,0 +1,3 @@
+INSERT INTO POSTS (title, author, content, created_date, modified_date) VALUES ('테스트1', 'test1@gmail.com', '테스트1의 본문 내용', now(), now());
+INSERT INTO POSTS (title, author, content, created_date, modified_date) VALUES ('테스트2', 'test2@naver.com', '테스트2의 본문 내용이다.', now(), now());
+INSERT INTO POSTS (title, author, content, created_date, modified_date) VALUES ('테스트3', 'test3@kakao.com', '테스트3의 본문 내용입니다.', now(), now());
